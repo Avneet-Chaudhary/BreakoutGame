@@ -1,20 +1,3 @@
-yaksh: 40
-None: 40
-Avneet Chaudhary: 280
-yaksh: 30
 None: 30
 Avneet Chaudhary: 370
-None: 40
-None: 270
-None: 90
-None: 220
-None: 0
-None: 40
-None: 290
-None: 290
-None: 90
-None: 320
-None: 40
-None: 0
-None: 0
-None: 20
+
